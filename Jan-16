@@ -2,13 +2,30 @@ Found that I can drag files onto GitHub website to push them. Commit
 them in Bash then drag the file from explorer. Still need to figure out 
 how I can write and push from the desktop app. 
 
+Things to remember about GitBASH:
 nano file_name
 git add
 git commit -m "then add notes about file you created"
 
 Questions answered during Genomics Lesson of Data Carpentry:
-
 "What is the distribution of genome sizes for all the strains?
 Is there a relationship between genome size and Cit status?
 How many base pair changes are there between the Cit+ and Cit- strains?
 What are the base pair changes between strains?"
+
+For next week:
+http://www.datacarpentry.org/shell-genomics/
+
+Completed today:
+  a. data carpentry project organization and management lesson
+    i. took notes and completed all of the exercises
+      1. highlighted the exercises that were either confusing or I could not answer. Did not have answers for these e xercises which is a challeng if completing on your own.
+  b. read information about that data set and took notes on E. coli strains
+  c. Hit a small road block that I asked Dr. Stapleton about
+     i. "Dr. Stapleton, I am working on the data carpentry lesson for the genomics workshop and I'm not sure how to continue. I am in this portion of the lesson: http://www.datacarpentry.org/shell-genomics/ and I don't know if I should continue with an AWS or try to work on my computer. This is where I am right now: http://www.datacarpentry.org/genomics-workshop/setup/"
+       1. going to use this as a question for Jason Williams 
+  d. Began work on the command line lesson
+    i. Hit road block, not sure where the directory untrimmed_fastqc came from, I think I am missing some downloads from the set up area. 
+    ii. Downloaded the sip file Trimmomatic, but when I tried to open the program nothing happened. So not sure what's going on there. 
+  e. Logged everything in new lab notebook.
+  f. Downloaded Libreoffice and I like it quite a bit
