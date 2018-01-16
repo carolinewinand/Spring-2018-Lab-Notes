@@ -1,0 +1,8 @@
+Found that I can drag files onto GitHub website to push them. Commit 
+them in Bash then drag the file from explorer. Still need to figure out 
+how I can write and push from the desktop app. 
+
+nano file_name
+git add
+git commit -m "then add notes about file you created"
+
