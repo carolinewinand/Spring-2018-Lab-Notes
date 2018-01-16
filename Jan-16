@@ -6,3 +6,9 @@ nano file_name
 git add
 git commit -m "then add notes about file you created"
 
+Questions answered during Genomics Lesson of Data Carpentry:
+
+"What is the distribution of genome sizes for all the strains?
+Is there a relationship between genome size and Cit status?
+How many base pair changes are there between the Cit+ and Cit- strains?
+What are the base pair changes between strains?"
