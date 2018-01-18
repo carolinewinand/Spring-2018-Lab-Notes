@@ -4,4 +4,35 @@ general.
 	2. Began watching the December Webinar from Jason Williams
 		a. BLOCK: lost wifi capabilities yet again in the 
 library. 
+		b. Completed the demo on the discovery environment 
+application.
+		c. Took notes on the entire webinar in my lab notebook.
+B. Read through the Data Capentry Forum, nothing was particularly useful 
+for my project. Nothing about my issue with the AWS system.
+C. Found the ticket system for bug fixes, or improvement suggestions, 
+called JIRA. You are suppose to log into JIRA with your Cyverse 
+credentials, but mine were not working. I tried to find a solution to 
+the problem on my own, but I did not have access to the JIRA wiki page. 
+I chatted with Sriram on the help chat. I wrote:
+
+"Hello Sriram, I am a student in Dr. Anne Stapleton's Lab at UNCW. I'm 
+currently working on a project to began testing the Data Carpentry 
+genomics lesson instructions, data and apps, with the goal of writing 
+questions for Jason Williams and figuring out how to make ‘implanted 
+known-truth specific bases’ as known-truth files that can be used for 
+future lessons. I ran into an issue while moving through the Data 
+Caprentry Genomic lessons, specifically in the "Introduction to the 
+Command Line" lesson. I do not have access to the pre-imaged Amazon Web 
+Services that are recommended in the Set Up instructions. So before I 
+can continue on my project, I need to submit a ticket through the 
+Cyverse JIRA tool, but my credentials are not working on the site, and I 
+do not have access to the wiki link on the "Using the CyVerse Wiki and 
+JIRA" website to find out why this isn't working. I know I am using the 
+correct ID and password as well. If you could please help me trouble 
+shoot this issue with JIRA, that would be most helpful. Thank you!"
+
+and he reassigned me to Jason Williams. Striaght to the source I 
+suppose.
+
+ 
 	 
