@@ -1,0 +1,40 @@
+I have been recuperating from a pretty gnarly illness the last two 
+weeks. 
+
+Tried to pick up on the PuTTY issue that I had before my absence and I'm 
+still encountering the same errors. I thought that it may have been 
+caused by wifi problems I have been struggling with. I uninstalled all 
+of my network adapters (11). When I restarted my computer, all 11 
+adapters were reinstalled, which I was not expecting, because I thought 
+that 8 of them were useless (WAN). My network problems continued. I 
+decided to deactivate the 8 network adapters that I deemed unnecessry 
+for everyday laptop function. My connectivity increased on campus, and 
+my issues seem to be cleared up for the time being. 
+
+So at this point, I was hoping that my PuTTY problems would also be 
+resolved but that is not the case. I still am not able to open my 
+atmosphere instance in the commendline of my computer using PuTTY. The 
+last time I tried it and today ,if I was able to maintain a connection, 
+I was denied access to the instance because of issues with my password 
+(i think).  
+
+I reset my password to see if that would make a difference, and it did 
+not. 
+
+Jason replied to my earlier chat and said: 
+
+"Caroline, you should contact me about the Carpentries stuff directly - 
+williams@cshl.edu There is a Carpentries amazon AMI see: 
+http://www.datacarpentry.org/genomics-workshop/setup/ "
+
+but I am still struggling with understanding the AMI system. My 
+understanding is that I will have to pay to create an IP address, 
+because those are only provided in the workshops. I need to decide 
+whether I want to:
+
+1. pay to create the instance with AMI
+2. Continue trying to work through the Atmosphere beta system
+3. Try using my local machine by downloading the massive datasets and 
+all the necessary software. I already downloaded FASTQC and the 
+Trimmomatic before I saw the Atmosphere option. 
+
