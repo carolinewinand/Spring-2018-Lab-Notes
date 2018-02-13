@@ -1,0 +1,31 @@
+I emailed Jason about my problems with the PuTTY program. Here is a copy 
+of that email:
+
+Jason,
+
+
+I apologize for the late response. I have been working on launching an 
+instance with Atmosphere because I already have an account, and I 
+figured I could offer some feedback for Cyverse because this platform is 
+still in beta testing. 
+
+
+I've hit a road block working with PuTTY. I have the program downloaded, 
+I open it and paste in my Atmosphere IP address, and I am prompted to 
+login. When I try to enter my password I get a few different kinds of 
+error messages:
+
+
+Connection Timed Out
+Invalid Login
+Access Denied
+Fatal Error: Server Unexpectedly Closed Network Connection
+Software Caused Connection Abort
+
+The most common error was the Access Denied message. I reset my 
+password, retried the program, and still could not successfully login. I 
+am hoping you could offer me some advice for moving past this issue. 
+Thank you for your consideration, I look forward to hearing from you at 
+your earliest convenience. 
+
+
