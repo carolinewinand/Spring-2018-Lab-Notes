@@ -1,0 +1,19 @@
+I am trying to work on the connectivity problems with PuTTY, but I am 
+still having issues gaining access to my account. My problem is strictly 
+password based I believe. I logged onto the Atmopshere and Discovery 
+Environment portals without issues. I am not able to chat through the 
+help icon in the bottom right corner of the screen. I sent Jason this 
+email before finishing my work for the day:
+
+
+Jason,
+
+I used the link that you sent to read up on PuTTY. I am not having 
+connectivity issues anymore, but the program is not granting me access 
+to my instance. I successfully enter the I.P address, and enter my 
+username "carolinewinand" but when it prompts me for my password and I 
+enter it, I am denied access. I tried to use the chat feature on the 
+CyVerse website but it wasn't able to load. I think that this is an 
+issue with my login information, because when I tried to submit a help 
+ticket in JIRA I encountered a similar issue and wasn't able to login 
+using my CyVerse credentials. 
